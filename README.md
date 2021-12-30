@@ -1,4 +1,3 @@
-# labsdel-website
 
 ## Build Setup
 
